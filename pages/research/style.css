@@ -154,9 +154,6 @@ transition: .5s;
 
 .home-sci{
     position: absolute;
-    right: 120px;
-    bottom: 40px;
-    width: 170px;
     display: flex;
     justify-content: space-between;
 }
@@ -223,7 +220,7 @@ transition: .5s;
 
 .container {
     position: relative;
-    top:170px; /* Adjust top margin as needed */
+    top: 170px; /* Adjust top margin as needed */
     left: 190px; /* Adjust left margin as needed */
     right: 100px; /* Adjust left margin as needed */
 
